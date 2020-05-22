@@ -4,4 +4,4 @@ suppressPackageStartupMessages(library(readr))
 suppressPackageStartupMessages(library(scales))
 suppressPackageStartupMessages(library(ggthemes))
 
-options(repr.plot.width=8, repr.plot.height=3)
+options(repr.plot.width=8, repr.plot.height=4)
