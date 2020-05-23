@@ -1,12 +1,12 @@
 # COVID-19 in Germany's Political Discourse
 
 
-**RQ:** What prevalence has *COVID-19* in the social media messaging across germany's political spectrum? 
+**RQ:** What prevalence does *COVID-19* have in the social media messaging across Germany's political spectrum? 
 
 
 ## Methodology
 
-We measure the number of posts on Twitter created by the parties in the German Bundestag containing the string "`covid`". We restrict us to the account of the left-wing party *Die Linke* ([@Linksfraktion](https://twitter.com/Linksfraktion)) and the right-wing party *Alternative für Deutschland* ([@AfDimBundestag](https://twitter.com/AfDimBundestag)). The project is inteded for demonstration purposes and has the following materials included.
+We measure the number of posts on Twitter created by the parties in the German Bundestag containing the string "covid". We restrict us to the account of the left-wing party *Die Linke* ([@Linksfraktion](https://twitter.com/Linksfraktion)) and the right-wing party *Alternative für Deutschland* ([@AfDimBundestag](https://twitter.com/AfDimBundestag)). The project is intended for demonstration purposes and has the following materials included.
 
 ## Online Analysis Environment
 
