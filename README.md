@@ -16,6 +16,7 @@ We measure the number of posts on Twitter created by the parties in the German B
 
 
 ## Online Analysis Environment
+[![GESIS Notebooks](https://notebooks.gesis.org/static/images/logo/logo_text.png)](https://notebooks.gesis.org)
 
 The project can be executed online at [GESIS Notebooks](https://notebooks.gesis.org/)
 
