@@ -8,6 +8,13 @@
 
 We measure the number of posts on Twitter created by the parties in the German Bundestag containing the string "covid". We restrict us to the account of the left-wing party *Die Linke* ([@Linksfraktion](https://twitter.com/Linksfraktion)) and the right-wing party *Alternative für Deutschland* ([@AfDimBundestag](https://twitter.com/AfDimBundestag)). The project is intended for demonstration purposes and has the following materials included.
 
+
+## Included Materials
+1. Analysis ([notebook](analysis.ipynb))
+2. Data collection ([notebook](data-collection.ipynb))
+2. Sample data ([CSV file](data.csv))
+
+
 ## Online Analysis Environment
 
 The project can be executed online at [GESIS Notebooks](https://notebooks.gesis.org/)
@@ -17,11 +24,6 @@ The project can be executed online at [GESIS Notebooks](https://notebooks.gesis.
 
 + To import the analysis persistently use  
 [![Binder](https://notebooks.gesis.org/binder/badge.svg)](https://notebooks.gesis.org/services/binder/v2/gh/arnim/DQ3S2O/master?urlpath=lab/tree/analysis.ipynb)
-
-## Included Materials
-1. Analysis ([notebook](analysis.ipynb))
-2. Data collection ([notebook](data-collection.ipynb))
-2. Sample data ([CSV file](data.csv))
 
 
 ## Terms of Use
