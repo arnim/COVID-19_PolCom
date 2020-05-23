@@ -28,7 +28,7 @@ The project can be executed online at [GESIS Notebooks](https://notebooks.gesis.
 
 ## Terms of Use
 
-Materials are licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
+Materials are licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
 
 
 [![Creative Commons Lizenzvertrag](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
