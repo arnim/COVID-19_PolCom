@@ -21,10 +21,10 @@ We measure the number of posts on Twitter created by the parties in the German B
 The project can be executed online at [GESIS Notebooks](https://notebooks.gesis.org/)
 
 + To launch the analysis for one-time usage click  
-[![Binder](https://notebooks.gesis.org/binder/badge.svg)](https://notebooks.gesis.org/binder/v2/gh/arnim/DQ3S2O/master?urlpath=lab/tree/analysis.ipynb)
+[![Binder](https://notebooks.gesis.org/binder/badge.svg)](https://notebooks.gesis.org/binder/v2/gh/arnim/COVID-19_PolCom/master?urlpath=lab/tree/analysis.ipynb)
 
 + To import the analysis persistently use  
-[![Binder](https://notebooks.gesis.org/binder/badge.svg)](https://notebooks.gesis.org/services/binder/v2/gh/arnim/DQ3S2O/master?urlpath=lab/tree/analysis.ipynb)
+[![Binder](https://notebooks.gesis.org/binder/badge.svg)](https://notebooks.gesis.org/services/binder/v2/gh/arnim/COVID-19_PolCom/master?urlpath=lab/tree/analysis.ipynb)
 
 
 ## Terms of Use
@@ -33,7 +33,4 @@ Materials are licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/
 
 
 [![Creative Commons Lizenzvertrag](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
-
-
-
 
